@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.instructions {
+  width: 400px;
+  margin: auto;
+  text-align: left;
+}
