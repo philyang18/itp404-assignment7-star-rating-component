@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/philyang18/itp404-assignment7-star-rating-component.svg?branch=master)](https://travis-ci.org/philyang18/itp404-assignment7-star-rating-component)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can find a demo of this project at [https://discreet-fold.surge.sh](https://discreet-fold.surge.sh).
 
 ## Assignment Instructions
